@@ -1,0 +1,5 @@
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+password: bandit0
+On level 0
+dir
+cat readme (this will display the readme file)
