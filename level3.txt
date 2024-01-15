@@ -1,0 +1,12 @@
+Level 3
+ssh bandit3@bandit.labs.overthewire.org -p 2220
+Password
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+cd .. goes to the parent directory
+cd / goes to the root directory
+cd ~ goes to the home directory (of the current user)
+
+cd inhere 
+ls -a 
+cat .hidden
+exit
